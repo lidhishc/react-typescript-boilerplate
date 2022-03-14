@@ -1,5 +1,5 @@
 # Install the node modules 
-``` yarn```
+``` yarn install ```
 
 # Run Web App
-```yart start```
+``` yart start ```
